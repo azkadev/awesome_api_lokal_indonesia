@@ -10,7 +10,6 @@ Kumpulan rest api lokal indonesia
 
 | Nama API                                                                  | Pengembang       | Dokumentasi                                                | Status | Deskripsi                                         | Autentikasi |
 |---------------------------------------------------------------------------|------------------|------------------------------------------------------------|--------|---------------------------------------------------|-------------|
-| <img src="assets/bluetick.png" width="20" height="20"> CNN Indonesia      | developeridn.com | [Link](https://github.com/rizki4106/cnnindonesia-news-api) | ✅      | API kumpulan berita dari cnn Indonesia.           | `false`     |
 | <img src="assets/bluetick.png" width="20" height="20"> Indonesia news API | News API         | [Link](https://newsapi.org/s/indonesia-news-api)           | ✅      | API untuk mendapatkan update berita di Indonesia. | API KEY     |
 
 ### Cuaca
