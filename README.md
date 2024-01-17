@@ -1,21 +1,81 @@
-# AwesomeApiLokalIndonesia
+# Awesome Api Lokal Indonesia
 
-
----
-
-### Demo
-
----
-
-### Install Library
-
-```bash
-dart pub add awesome_api_lokal_indonesia
-```
-
-or flutter
-
-```bash
-dart pub add awesome_api_lokal_indonesia_flutter
-```
+Kumpulan rest api lokal indonesia
  
+ 
+
+## Daftar API 
+
+### Berita
+
+| Nama API                                                                  | Pengembang       | Dokumentasi                                                | Status | Deskripsi                                         | Autentikasi |
+|---------------------------------------------------------------------------|------------------|------------------------------------------------------------|--------|---------------------------------------------------|-------------|
+| <img src="assets/bluetick.png" width="20" height="20"> CNN Indonesia      | developeridn.com | [Link](https://github.com/rizki4106/cnnindonesia-news-api) | ✅      | API kumpulan berita dari cnn Indonesia.           | `false`     |
+| <img src="assets/bluetick.png" width="20" height="20"> Indonesia news API | News API         | [Link](https://newsapi.org/s/indonesia-news-api)           | ✅      | API untuk mendapatkan update berita di Indonesia. | API KEY     |
+
+### Cuaca
+
+| Nama API                                                                  | Pengembang | Dokumentasi                        | Status | Deskripsi                                               | Autentikasi |
+|---------------------------------------------------------------------------|------------|------------------------------------|--------|---------------------------------------------------------|-------------|
+| <img src="assets/bluetick.png" width="20" height="20"> API Cuaca Realtime | weatherapi | [Link](https://www.weatherapi.com) | ✅      | Ramalan Cuaca Terkini Berbagai Kota dengan Format JSON. | API KEY     |
+
+### E-Commerce
+
+| Nama API                                                                            | Pengembang        | Dokumentasi                                           | Status | Deskripsi                                                                                         | Autentikasi |
+|-------------------------------------------------------------------------------------|-------------------|-------------------------------------------------------|--------|---------------------------------------------------------------------------------------------------|-------------|
+| <img src="assets/bluetick.png" width="20" height="20"> Blibli                       | Blibli.com Dev    | [Link](https://seller-api.blibli.com/home)            | ✅      | API untuk penjual di Blibli.                                                                      | API KEY     |
+| <img src="assets/bluetick.png" width="20" height="20"> Lazada                       | Lazada Dev        | [Link](https://open.lazada.com/doc/doc.htm)           | ✅      | API resmi Lazada untuk layanan Product, Order, Finance, Logistic, Seller, dan System dari Lazada. | API KEY     |
+| <img src="assets/bluetick.png" width="20" height="20"> Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io)            | ✅      | API untuk penjual di Matahari Mall.                                                               | API KEY     |
+| <img src="assets/bluetick.png" width="20" height="20"> Shopee                       | Shopee Dev        | [Link](https://open.shopee.com/documents)             | ✅      | API resmi Shopee untuk integrasi berbagai layanan dari Shopee.                                    | API KEY     |
+| <img src="assets/bluetick.png" width="20" height="20"> Tokopedia.com API            | Tokopedia.com Dev | [Link](https://developer.tokopedia.com/openapi/guide) | ✅      | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Tokopedia.                  | API KEY     |
+
+### Finansial
+
+| Nama API                                                                        | Pengembang                                | Dokumentasi                                                                   | Status | Deskripsi                                                                                                                                                                                                              | Autentikasi     |
+|---------------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| <img src="assets/bluetick.png" width="20" height="20"> API Data Saham Indonesia | goapi-id                                  | [Link](https://goapi.io/api-data-saham-indonesia)                             | ✅      | REST API data saham indonesia dalam format json, dengan api ini anda bisa mendapatkan data perusahaan, harga saham, dll.                                                                                               | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20"> BCA                      | BCA                                       | [Link](https://developer.bca.co.id)                                           | ✅      | API Bank BCA.                                                                                                                                                                                                          | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20"> Bisatopup                | Bisatopup                                 | [Link](https://documenter.getpostman.com/view/367648/RzfZQZAL?version=latest) | ✅      | Melalui API ini dapat melakukan transaksi seperti beli pulsa, bayar token listrik, dan lain-lain.                                                                                                                      | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20"> CoinMarketCap            | CoinMarketCap                             | [Link](https://coinmarketcap.com/api)                                         | ✅      | CoinMarketCap API adalah rangkaian endpoint RESTful JSON berkinerja tinggi yang dirancang khusus untuk memenuhi tuntutan misi-kritis dari pengembang aplikasi, ilmuwan data, dan platform bisnis perusahaan.           | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20"> Dana Enterprise          | DANA                                      | [Link](https://dashboard.dana.id/api-docs/)                                   | ✅      | Official DANA Enterprise API.                                                                                                                                                                                          | OAUTH           |
+| <img src="assets/bluetick.png" width="20" height="20"> DOKU                     | DOKU                                      | [Link](https://www.doku.com/API/index.html)                                   | ✅      | DOKU semakin dipercaya dan menjadi layanan pembayaran elektronik pilihan bagi merchant nasional maupun internasional.                                                                                                  | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20"> Duitku                   | Duitku                                    | [Link](https://docs.duitku.com)                                               | ✅      | Payment Gateway Indonesia.                                                                                                                                                                                             | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20"> ESPAY                    | ESPAY                                     | [Link](https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php)            | ✅      | Payment Gateway Indonesia.                                                                                                                                                                                             | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20">iPaymu                    | iPaymu                                    | [Link](https://ipaymu.com/dokumentasi-api)                                    | ✅      | Gateway atau gerbang untuk transaksi pembayaran.                                                                                                                                                                       | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20"> Jurnal API               | jurnal.id                                 | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction)        | ✅      | API untuk software laporan keuangan.                                                                                                                                                                                   | OAUTH / API KEY |
+| <img src="assets/bluetick.png" width="20" height="20"> Midtrans                 | Midtrans                                  | [Link](https://docs.midtrans.com)                                             | ✅      | Gateway atau gerbang untuk transaksi pembayaran.                                                                                                                                                                       | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20"> MobilePulsa API          | MobilePulsa Official                      | [Link](https://developer.mobilepulsa.net)                                     | ✅      | API Gateway resmi dari MobilePulsa untuk pembayaran pulsa, top up, PLN, voucher game, dll.                                                                                                                             | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20"> Neropass API             | [Neropass](https://neropass.com/reseller) | [Link](https://docs.neropass.com)                                             | ✅      | API distributor game online dan voucher game terlengkap dari PT Busur Media Indonesia (terbuka untuk reseller), tersedia juga layanan topup pulsa, paket data, dll.                                                    | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20"> OY! Indonesia            | OY! Indonesia                             | [Link](https://api-docs.oyindonesia.com/#introduction)                        | ✅      | API Gateway resmi dari OY! Indonesia untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran OY! Indonesia.                                                                                                     | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20"> Paypal                   | Paypal                                    | [Link](https://developer.paypal.com/api/rest/)                                | ✅      | API Gateway resmi dari Paypal untuk transaksi internasional atau domestik dari dompet paypal.                                                                                                                          | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20"> tradingeconomics         | tradingeconomics                          | [Link](https://tradingeconomics.com/api/)                                     | ✅      | Trading Economics Application Programming Interface (API) Menyediakan akses langsung ke data kami. Ini memungkinkan klien untuk mengunduh jutaan baris data historis, untuk mempertanyakan kalender ekonomi real-time. | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20"> Tradingview              | Tradingview                               | [Link](https://www.tradingview.com/rest-api-spec)                             | ✅      | API ini akan diimplementasikan oleh Broker untuk menghubungkan sistem backend mereka ke TradingView.                                                                                                                   | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20"> Tripay                   | Tripay                                    | [Link](https://tripay.co.id/developer?tab=prolog)                             | ✅      | API payment Gateway yang terbagi menjadi 2 jenis yaitu Open Payment & Closed Payment. sehingga dapat dintegrasikan dengan aplikasi Anda dengan Gateway pembayaran Tripay.                                              | API KEY         |
+| <img src="assets/bluetick.png" width="20" height="20"> Xendit API               | Xendit Official                           | [Link](https://developers.xendit.co)                                          | ✅      | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit.                                                                                                                   | API KEY         |
+
+### Forum
+
+| Nama API                                                          | Pengembang | Dokumentasi                                           | Status | Deskripsi                                                 | Autentikasi |
+|-------------------------------------------------------------------|------------|-------------------------------------------------------|--------|-----------------------------------------------------------|-------------|
+| <img src="assets/bluetick.png" width="20" height="20"> Kaskus API | Kaskus Dev | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki) | ✅      | API untuk mengakses forum terkenal di Indonesia - Kaskus. | OAUTH       |
+
+### Jasa Pengiriman
+
+| Nama API                                                              | Pengembang                        | Dokumentasi                                                           | Status | Deskripsi                                                                                                                                                                                                                                          | Autentikasi |
+|-----------------------------------------------------------------------|-----------------------------------|-----------------------------------------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| <img src="assets/bluetick.png" width="20" height="20"> Cek Resi       | binderbyte                        | [Link](https://docs.binderbyte.com/api/cek-resi)                      | ✅      | API Cek Resi adalah api yang berguna untuk melacak resi secara otomatis mulai dari jne, pos, jnt, wahana, tiki, sicepat dll.                                                                                                                       | API KEY     |
+| <img src="assets/bluetick.png" width="20" height="20"> J&T            | J&T Official                      | [Link](https://developer.jet.co.id/documentation)                     | ✅      | API Resmi yang diterbitkan oleh J&T untuk layanan AWB, Order Tracking, Cek Tarif, dan Pembatalan Order.                                                                                                                                            | API KEY     |
+| <img src="assets/bluetick.png" width="20" height="20"> JNE            | JNE Official                      | [Link](https://apidash.jne.co.id)                                     | ✅      | API Resmi JNE yang dapat digunakan untuk layanan cek ongkos kirim hingga generate AWB. Untuk akses link diperlukan akun yang diberikan langsung dari pihak JNE.                                                                                    | API KEY     |
+| <img src="assets/bluetick.png" width="20" height="20">KiriminAja      | KiriminAja Official               | [Link](https://developer.kiriminaja.com)                              | ✅      | Solusi pengiriman paket ke berbagai ekspedisi, ketahui posisi paket secara real-time, mendukung pengiriman reguler, kargo, dan instan.                                                                                                             | API KEY     |
+| <img src="assets/bluetick.png" width="20" height="20"> Paket ID       | paket.id                          | [Link](http://docs.paket.id/API/Versi_2.html)                         | ✅      | Jasa pengiriman.                                                                                                                                                                                                                                   | API KEY     |
+| <img src="assets/bluetick.png" width="20" height="20"> POST Indonesia | Trackingmore                      | [Link](https://www.trackingmore.com/indonesia-post-tracking-api.html) | ✅      | Jasa pengiriman.                                                                                                                                                                                                                                   | API KEY     |
+| <img src="assets/bluetick.png" width="20" height="20"> Raja Ongkir    | Rajaongkir                        | [Link](http://rajaongkir.com/dokumentasi)                             | ✅      | Cek ongkos kirim pada beberapa jasa antar barang seperti JNE, POS, TIKI, dan lain-lain.                                                                                                                                                            | API KEY     |
+| <img src="assets/bluetick.png" width="20" height="20"> Shipper        | Shipper                           | [Link](https://shipper.id/api-integration)                            | ✅      | Solusi pelacakan terupdate dan akurat dari dashboard Shipper. Ketahui posisi paket dengan mudah hanya dengan input no. resi. Adanya kemudahan pantau pengiriman secara real-time. Kami juga kirimkan notifikasi terkait status terkini paket Anda. | API KEY     |
+| <img src="assets/bluetick.png" width="20" height="20"> Tracking API   | [Klik Resi](https://klikresi.com) | [Link](https://documenter.getpostman.com/view/29221489/2s9YC7SBgH)    | ✅      | API untuk membantu pelaku eCommerce untuk melacak paket secara akurat.                                                                                                                                                                             | API KEY     |
+ 
+### Sosial Media
+
+| Nama API                                                                     | Pengembang | Dokumentasi                                           | Status | Deskripsi                              | Autentikasi |
+|------------------------------------------------------------------------------|------------|-------------------------------------------------------|--------|----------------------------------------|-------------|
+| <img src="assets/bluetick.png" width="20" height="20"> Whatsapp Official API | Facebook   | [Link](https://developers.facebook.com/docs/whatsapp) | ✅      | Official API untuk Whatsapp Cloud API. | `false`     |
+  
