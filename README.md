@@ -76,5 +76,6 @@ Kumpulan rest api lokal indonesia
 
 | Nama API                                                                     | Pengembang | Dokumentasi                                           | Status | Deskripsi                              | Autentikasi |
 |------------------------------------------------------------------------------|------------|-------------------------------------------------------|--------|----------------------------------------|-------------|
+| <img src="assets/bluetick.png" width="20" height="20"> Telegram Bot Api | Telegram   | [Link](https://core.telegram.org/bots/api) | ✅      | Official API untuk Telegram bot API. | `true`     |
 | <img src="assets/bluetick.png" width="20" height="20"> Whatsapp Official API | Facebook   | [Link](https://developers.facebook.com/docs/whatsapp) | ✅      | Official API untuk Whatsapp Cloud API. | `false`     |
   
