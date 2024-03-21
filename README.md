@@ -1,81 +1,439 @@
-# Awesome Api Lokal Indonesia
+IyBBd2Vzb21lIEFwaSBMb2thbCBJbmRvbmVzaWEKCkt1bXB1bGFuIHJlc3Qg
+YXBpIGxva2FsIGluZG9uZXNpYQogCiAKCiMjIERhZnRhciBBUEkgCgojIyMg
+QmVyaXRhCgp8IE5hbWEgQVBJICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBQZW5n
+ZW1iYW5nICAgICAgIHwgRG9rdW1lbnRhc2kgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IFN0YXR1cyB8IERlc2ty
+aXBzaSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+fCBBdXRlbnRpa2FzaSB8CnwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS18LS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0t
+LXwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS18LS0tLS0tLS0tLS0tLXwKfCA8aW1nIHNyYz0iYXNzZXRzL2Js
+dWV0aWNrLnBuZyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj4gSW5kb25lc2lh
+IG5ld3MgQVBJIHwgTmV3cyBBUEkgICAgICAgICB8IFtMaW5rXShodHRwczov
+L25ld3NhcGkub3JnL3MvaW5kb25lc2lhLW5ld3MtYXBpKSAgICAgICAgICAg
+fCDinIUgICAgICB8IEFQSSB1bnR1ayBtZW5kYXBhdGthbiB1cGRhdGUgYmVy
+aXRhIGRpIEluZG9uZXNpYS4gfCBBUEkgS0VZICAgICB8CgojIyMgQ3VhY2EK
+CnwgTmFtYSBBUEkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IFBlbmdlbWJhbmcg
+fCBEb2t1bWVudGFzaSAgICAgICAgICAgICAgICAgICAgICAgIHwgU3RhdHVz
+IHwgRGVza3JpcHNpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICB8IEF1dGVudGlrYXNpIHwKfC0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tfC0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwt
+LS0tLS0tLS0tLS0tfAp8IDxpbWcgc3JjPSJhc3NldHMvYmx1ZXRpY2sucG5n
+IiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiPiBBUEkgQ3VhY2EgUmVhbHRpbWUg
+fCB3ZWF0aGVyYXBpIHwgW0xpbmtdKGh0dHBzOi8vd3d3LndlYXRoZXJhcGku
+Y29tKSB8IOKchSAgICAgIHwgUmFtYWxhbiBDdWFjYSBUZXJraW5pIEJlcmJh
+Z2FpIEtvdGEgZGVuZ2FuIEZvcm1hdCBKU09OLiB8IEFQSSBLRVkgICAgIHwK
+CiMjIyBFLUNvbW1lcmNlCgp8IE5hbWEgQVBJICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIHwgUGVuZ2VtYmFuZyAgICAgICAgfCBEb2t1bWVudGFz
+aSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8
+IFN0YXR1cyB8IERlc2tyaXBzaSAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgfCBBdXRlbnRpa2FzaSB8CnwtLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0t
+LS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLS0t
+LS0tLXwKfCA8aW1nIHNyYz0iYXNzZXRzL2JsdWV0aWNrLnBuZyIgd2lkdGg9
+IjIwIiBoZWlnaHQ9IjIwIj4gQmxpYmxpICAgICAgICAgICAgICAgICAgICAg
+ICB8IEJsaWJsaS5jb20gRGV2ICAgIHwgW0xpbmtdKGh0dHBzOi8vc2VsbGVy
+LWFwaS5ibGlibGkuY29tL2hvbWUpICAgICAgICAgICAgfCDinIUgICAgICB8
+IEFQSSB1bnR1ayBwZW5qdWFsIGRpIEJsaWJsaS4gICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgfCBBUEkgS0VZICAgICB8CnwgPGltZyBzcmM9ImFzc2V0cy9i
+bHVldGljay5wbmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+IExhemFkYSAg
+ICAgICAgICAgICAgICAgICAgICAgfCBMYXphZGEgRGV2ICAgICAgICB8IFtM
+aW5rXShodHRwczovL29wZW4ubGF6YWRhLmNvbS9kb2MvZG9jLmh0bSkgICAg
+ICAgICAgIHwg4pyFICAgICAgfCBBUEkgcmVzbWkgTGF6YWRhIHVudHVrIGxh
+eWFuYW4gUHJvZHVjdCwgT3JkZXIsIEZpbmFuY2UsIExvZ2lzdGljLCBTZWxs
+ZXIsIGRhbiBTeXN0ZW0gZGFyaSBMYXphZGEuIHwgQVBJIEtFWSAgICAgfAp8
+IDxpbWcgc3JjPSJhc3NldHMvYmx1ZXRpY2sucG5nIiB3aWR0aD0iMjAiIGhl
+aWdodD0iMjAiPiBNYXRhaGFyaSBNYWxsIEFQSSBmb3IgU2VsbGVyIHwgTWF0
+YWhhcmkgTWFsbCBEZXYgfCBbTGlua10oaHR0cDovL2RvY3MuYXBpZm9yc2Vs
+bGVyLmFwaWFyeS5pbykgICAgICAgICAgICB8IOKchSAgICAgIHwgQVBJIHVu
+dHVrIHBlbmp1YWwgZGkgTWF0YWhhcmkgTWFsbC4gICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICB8IEFQSSBLRVkgICAgIHwKfCA8aW1nIHNyYz0iYXNzZXRzL2JsdWV0aWNr
+LnBuZyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj4gU2hvcGVlICAgICAgICAg
+ICAgICAgICAgICAgICB8IFNob3BlZSBEZXYgICAgICAgIHwgW0xpbmtdKGh0
+dHBzOi8vb3Blbi5zaG9wZWUuY29tL2RvY3VtZW50cykgICAgICAgICAgICAg
+fCDinIUgICAgICB8IEFQSSByZXNtaSBTaG9wZWUgdW50dWsgaW50ZWdyYXNp
+IGJlcmJhZ2FpIGxheWFuYW4gZGFyaSBTaG9wZWUuICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgfCBBUEkgS0VZICAgICB8CnwgPGltZyBz
+cmM9ImFzc2V0cy9ibHVldGljay5wbmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIy
+MCI+IFRva29wZWRpYS5jb20gQVBJICAgICAgICAgICAgfCBUb2tvcGVkaWEu
+Y29tIERldiB8IFtMaW5rXShodHRwczovL2RldmVsb3Blci50b2tvcGVkaWEu
+Y29tL29wZW5hcGkvZ3VpZGUpIHwg4pyFICAgICAgfCBBUEkgaW5pIG1lbXVu
+Z2tpbmthbiBBbmRhIHVudHVrIG1lbmdpbnRlZ3Jhc2lrYW4gc2lzdGVtIEFu
+ZGEga2UgZGFsYW0gVG9rb3BlZGlhLiAgICAgICAgICAgICAgICAgIHwgQVBJ
+IEtFWSAgICAgfAoKIyMjIEZpbmFuc2lhbAoKfCBOYW1hIEFQSSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIHwgUGVuZ2VtYmFuZyAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgfCBEb2t1bWVudGFzaSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICB8IFN0YXR1cyB8IERlc2tyaXBzaSAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgfCBBdXRlbnRpa2FzaSAgICAgfAp8LS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLXwtLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS18CnwgPGltZyBzcmM9ImFz
+c2V0cy9ibHVldGljay5wbmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+IEFQ
+SSBEYXRhIFNhaGFtIEluZG9uZXNpYSB8IGdvYXBpLWlkICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIHwgW0xpbmtdKGh0dHBzOi8vZ29hcGku
+aW8vYXBpLWRhdGEtc2FoYW0taW5kb25lc2lhKSAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgfCDinIUgICAgICB8IFJFU1QgQVBJIGRhdGEgc2FoYW0g
+aW5kb25lc2lhIGRhbGFtIGZvcm1hdCBqc29uLCBkZW5nYW4gYXBpIGluaSBh
+bmRhIGJpc2EgbWVuZGFwYXRrYW4gZGF0YSBwZXJ1c2FoYWFuLCBoYXJnYSBz
+YWhhbSwgZGxsLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgfCBBUEkgS0VZICAgICAgICAgfAp8IDxpbWcgc3Jj
+PSJhc3NldHMvYmx1ZXRpY2sucG5nIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAi
+PiBCQ0EgICAgICAgICAgICAgICAgICAgICAgfCBCQ0EgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICB8IFtMaW5rXShodHRwczovL2Rl
+dmVsb3Blci5iY2EuY28uaWQpICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIHwg4pyFICAgICAgfCBBUEkgQmFuayBCQ0EuICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIHwgQVBJIEtFWSAgICAgICAgIHwKfCA8aW1n
+IHNyYz0iYXNzZXRzL2JsdWV0aWNrLnBuZyIgd2lkdGg9IjIwIiBoZWlnaHQ9
+IjIwIj4gQmlzYXRvcHVwICAgICAgICAgICAgICAgIHwgQmlzYXRvcHVwICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBbTGlua10oaHR0cHM6
+Ly9kb2N1bWVudGVyLmdldHBvc3RtYW4uY29tL3ZpZXcvMzY3NjQ4L1J6ZlpR
+WkFMP3ZlcnNpb249bGF0ZXN0KSB8IOKchSAgICAgIHwgTWVsYWx1aSBBUEkg
+aW5pIGRhcGF0IG1lbGFrdWthbiB0cmFuc2Frc2kgc2VwZXJ0aSBiZWxpIHB1
+bHNhLCBiYXlhciB0b2tlbiBsaXN0cmlrLCBkYW4gbGFpbi1sYWluLiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICB8IEFQSSBLRVkgICAgICAgICB8Cnwg
+PGltZyBzcmM9ImFzc2V0cy9ibHVldGljay5wbmciIHdpZHRoPSIyMCIgaGVp
+Z2h0PSIyMCI+IENvaW5NYXJrZXRDYXAgICAgICAgICAgICB8IENvaW5NYXJr
+ZXRDYXAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgW0xpbmtdKGh0
+dHBzOi8vY29pbm1hcmtldGNhcC5jb20vYXBpKSAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgfCDinIUgICAgICB8IENvaW5NYXJr
+ZXRDYXAgQVBJIGFkYWxhaCByYW5na2FpYW4gZW5kcG9pbnQgUkVTVGZ1bCBK
+U09OIGJlcmtpbmVyamEgdGluZ2dpIHlhbmcgZGlyYW5jYW5nIGtodXN1cyB1
+bnR1ayBtZW1lbnVoaSB0dW50dXRhbiBtaXNpLWtyaXRpcyBkYXJpIHBlbmdl
+bWJhbmcgYXBsaWthc2ksIGlsbXV3YW4gZGF0YSwgZGFuIHBsYXRmb3JtIGJp
+c25pcyBwZXJ1c2FoYWFuLiAgICAgICAgICAgfCBBUEkgS0VZICAgICAgICAg
+fAp8IDxpbWcgc3JjPSJhc3NldHMvYmx1ZXRpY2sucG5nIiB3aWR0aD0iMjAi
+IGhlaWdodD0iMjAiPiBEYW5hIEVudGVycHJpc2UgICAgICAgICAgfCBEQU5B
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IFtMaW5r
+XShodHRwczovL2Rhc2hib2FyZC5kYW5hLmlkL2FwaS1kb2NzLykgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwg4pyFICAgICAgfCBPZmZp
+Y2lhbCBEQU5BIEVudGVycHJpc2UgQVBJLiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgT0FVVEggICAgICAg
+ICAgIHwKfCA8aW1nIHNyYz0iYXNzZXRzL2JsdWV0aWNrLnBuZyIgd2lkdGg9
+IjIwIiBoZWlnaHQ9IjIwIj4gRE9LVSAgICAgICAgICAgICAgICAgICAgIHwg
+RE9LVSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBb
+TGlua10oaHR0cHM6Ly93d3cuZG9rdS5jb20vQVBJL2luZGV4Lmh0bWwpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IOKchSAgICAgIHwg
+RE9LVSBzZW1ha2luIGRpcGVyY2F5YSBkYW4gbWVuamFkaSBsYXlhbmFuIHBl
+bWJheWFyYW4gZWxla3Ryb25payBwaWxpaGFuIGJhZ2kgbWVyY2hhbnQgbmFz
+aW9uYWwgbWF1cHVuIGludGVybmFzaW9uYWwuICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IEFQSSBLRVkg
+ICAgICAgICB8CnwgPGltZyBzcmM9ImFzc2V0cy9ibHVldGljay5wbmciIHdp
+ZHRoPSIyMCIgaGVpZ2h0PSIyMCI+IER1aXRrdSAgICAgICAgICAgICAgICAg
+ICB8IER1aXRrdSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IHwgW0xpbmtdKGh0dHBzOi8vZG9jcy5kdWl0a3UuY29tKSAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCDinIUgICAg
+ICB8IFBheW1lbnQgR2F0ZXdheSBJbmRvbmVzaWEuICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBBUEkg
+S0VZICAgICAgICAgfAp8IDxpbWcgc3JjPSJhc3NldHMvYmx1ZXRpY2sucG5n
+IiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiPiBFU1BBWSAgICAgICAgICAgICAg
+ICAgICAgfCBFU1BBWSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICB8IFtMaW5rXShodHRwczovL3NhbmRib3gta2l0LmVzcGF5LmlkL2Rv
+Y3MvdjIvZG9jZXNwYXkvZW4vaW5kZXgucGhwKSAgICAgICAgICAgIHwg4pyF
+ICAgICAgfCBQYXltZW50IEdhdGV3YXkgSW5kb25lc2lhLiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwg
+QVBJIEtFWSAgICAgICAgIHwKfCA8aW1nIHNyYz0iYXNzZXRzL2JsdWV0aWNr
+LnBuZyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj5pUGF5bXUgICAgICAgICAg
+ICAgICAgICAgIHwgaVBheW11ICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgfCBbTGlua10oaHR0cHM6Ly9pcGF5bXUuY29tL2Rva3VtZW50
+YXNpLWFwaSkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8
+IOKchSAgICAgIHwgR2F0ZXdheSBhdGF1IGdlcmJhbmcgdW50dWsgdHJhbnNh
+a3NpIHBlbWJheWFyYW4uICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICB8IEFQSSBLRVkgICAgICAgICB8CnwgPGltZyBzcmM9ImFzc2V0cy9ibHVl
+dGljay5wbmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+IEp1cm5hbCBBUEkg
+ICAgICAgICAgICAgICB8IGp1cm5hbC5pZCAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIHwgW0xpbmtdKGh0dHBzOi8vYXBpLWp1cm5hbC5hcGkt
+ZG9jcy5pby92MS9nZXR0aW5nLXN0YXJ0ZWQvaW50cm9kdWN0aW9uKSAgICAg
+ICAgfCDinIUgICAgICB8IEFQSSB1bnR1ayBzb2Z0d2FyZSBsYXBvcmFuIGtl
+dWFuZ2FuLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgfCBPQVVUSCAvIEFQSSBLRVkgfAp8IDxpbWcgc3JjPSJhc3NldHMv
+Ymx1ZXRpY2sucG5nIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiPiBNaWR0cmFu
+cyAgICAgICAgICAgICAgICAgfCBNaWR0cmFucyAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICB8IFtMaW5rXShodHRwczovL2RvY3MubWlkdHJh
+bnMuY29tKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIHwg4pyFICAgICAgfCBHYXRld2F5IGF0YXUgZ2VyYmFuZyB1bnR1
+ayB0cmFuc2Frc2kgcGVtYmF5YXJhbi4gICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIHwgQVBJIEtFWSAgICAgICAgIHwKfCA8aW1nIHNyYz0iYXNz
+ZXRzL2JsdWV0aWNrLnBuZyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj4gTW9i
+aWxlUHVsc2EgQVBJICAgICAgICAgIHwgTW9iaWxlUHVsc2EgT2ZmaWNpYWwg
+ICAgICAgICAgICAgICAgICAgICAgfCBbTGlua10oaHR0cHM6Ly9kZXZlbG9w
+ZXIubW9iaWxlcHVsc2EubmV0KSAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICB8IOKchSAgICAgIHwgQVBJIEdhdGV3YXkgcmVzbWkgZGFy
+aSBNb2JpbGVQdWxzYSB1bnR1ayBwZW1iYXlhcmFuIHB1bHNhLCB0b3AgdXAs
+IFBMTiwgdm91Y2hlciBnYW1lLCBkbGwuICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICB8IEFQSSBLRVkgICAgICAgICB8CnwgPGltZyBzcmM9
+ImFzc2V0cy9ibHVldGljay5wbmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+
+IE5lcm9wYXNzIEFQSSAgICAgICAgICAgICB8IFtOZXJvcGFzc10oaHR0cHM6
+Ly9uZXJvcGFzcy5jb20vcmVzZWxsZXIpIHwgW0xpbmtdKGh0dHBzOi8vZG9j
+cy5uZXJvcGFzcy5jb20pICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgfCDinIUgICAgICB8IEFQSSBkaXN0cmlidXRvciBn
+YW1lIG9ubGluZSBkYW4gdm91Y2hlciBnYW1lIHRlcmxlbmdrYXAgZGFyaSBQ
+VCBCdXN1ciBNZWRpYSBJbmRvbmVzaWEgKHRlcmJ1a2EgdW50dWsgcmVzZWxs
+ZXIpLCB0ZXJzZWRpYSBqdWdhIGxheWFuYW4gdG9wdXAgcHVsc2EsIHBha2V0
+IGRhdGEsIGRsbC4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgfCBBUEkgS0VZICAgICAgICAgfAp8IDxpbWcg
+c3JjPSJhc3NldHMvYmx1ZXRpY2sucG5nIiB3aWR0aD0iMjAiIGhlaWdodD0i
+MjAiPiBPWSEgSW5kb25lc2lhICAgICAgICAgICAgfCBPWSEgSW5kb25lc2lh
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IFtMaW5rXShodHRwczov
+L2FwaS1kb2NzLm95aW5kb25lc2lhLmNvbS8jaW50cm9kdWN0aW9uKSAgICAg
+ICAgICAgICAgICAgICAgICAgIHwg4pyFICAgICAgfCBBUEkgR2F0ZXdheSBy
+ZXNtaSBkYXJpIE9ZISBJbmRvbmVzaWEgdW50dWsgbWVuZ2ludGVncmFzaWth
+biBhcGxpa2FzaSBBbmRhIGRlbmdhbiBnYXRld2F5IHBlbWJheWFyYW4gT1kh
+IEluZG9uZXNpYS4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIHwgQVBJIEtFWSAgICAgICAgIHwKfCA8
+aW1nIHNyYz0iYXNzZXRzL2JsdWV0aWNrLnBuZyIgd2lkdGg9IjIwIiBoZWln
+aHQ9IjIwIj4gUGF5cGFsICAgICAgICAgICAgICAgICAgIHwgUGF5cGFsICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBbTGlua10oaHR0
+cHM6Ly9kZXZlbG9wZXIucGF5cGFsLmNvbS9hcGkvcmVzdC8pICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICB8IOKchSAgICAgIHwgQVBJIEdhdGV3
+YXkgcmVzbWkgZGFyaSBQYXlwYWwgdW50dWsgdHJhbnNha3NpIGludGVybmFz
+aW9uYWwgYXRhdSBkb21lc3RpayBkYXJpIGRvbXBldCBwYXlwYWwuICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICB8IEFQSSBLRVkgICAgICAgICB8
+CnwgPGltZyBzcmM9ImFzc2V0cy9ibHVldGljay5wbmciIHdpZHRoPSIyMCIg
+aGVpZ2h0PSIyMCI+IHRyYWRpbmdlY29ub21pY3MgICAgICAgICB8IHRyYWRp
+bmdlY29ub21pY3MgICAgICAgICAgICAgICAgICAgICAgICAgIHwgW0xpbmtd
+KGh0dHBzOi8vdHJhZGluZ2Vjb25vbWljcy5jb20vYXBpLykgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgfCDinIUgICAgICB8IFRyYWRp
+bmcgRWNvbm9taWNzIEFwcGxpY2F0aW9uIFByb2dyYW1taW5nIEludGVyZmFj
+ZSAoQVBJKSBNZW55ZWRpYWthbiBha3NlcyBsYW5nc3VuZyBrZSBkYXRhIGth
+bWkuIEluaSBtZW11bmdraW5rYW4ga2xpZW4gdW50dWsgbWVuZ3VuZHVoIGp1
+dGFhbiBiYXJpcyBkYXRhIGhpc3RvcmlzLCB1bnR1ayBtZW1wZXJ0YW55YWth
+biBrYWxlbmRlciBla29ub21pIHJlYWwtdGltZS4gfCBBUEkgS0VZICAgICAg
+ICAgfAp8IDxpbWcgc3JjPSJhc3NldHMvYmx1ZXRpY2sucG5nIiB3aWR0aD0i
+MjAiIGhlaWdodD0iMjAiPiBUcmFkaW5ndmlldyAgICAgICAgICAgICAgfCBU
+cmFkaW5ndmlldyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IFtM
+aW5rXShodHRwczovL3d3dy50cmFkaW5ndmlldy5jb20vcmVzdC1hcGktc3Bl
+YykgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwg4pyFICAgICAgfCBB
+UEkgaW5pIGFrYW4gZGlpbXBsZW1lbnRhc2lrYW4gb2xlaCBCcm9rZXIgdW50
+dWsgbWVuZ2h1YnVuZ2thbiBzaXN0ZW0gYmFja2VuZCBtZXJla2Ega2UgVHJh
+ZGluZ1ZpZXcuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgQVBJIEtFWSAg
+ICAgICAgIHwKfCA8aW1nIHNyYz0iYXNzZXRzL2JsdWV0aWNrLnBuZyIgd2lk
+dGg9IjIwIiBoZWlnaHQ9IjIwIj4gVHJpcGF5ICAgICAgICAgICAgICAgICAg
+IHwgVHJpcGF5ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+fCBbTGlua10oaHR0cHM6Ly90cmlwYXkuY28uaWQvZGV2ZWxvcGVyP3RhYj1w
+cm9sb2cpICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IOKchSAgICAg
+IHwgQVBJIHBheW1lbnQgR2F0ZXdheSB5YW5nIHRlcmJhZ2kgbWVuamFkaSAy
+IGplbmlzIHlhaXR1IE9wZW4gUGF5bWVudCAmIENsb3NlZCBQYXltZW50LiBz
+ZWhpbmdnYSBkYXBhdCBkaW50ZWdyYXNpa2FuIGRlbmdhbiBhcGxpa2FzaSBB
+bmRhIGRlbmdhbiBHYXRld2F5IHBlbWJheWFyYW4gVHJpcGF5LiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IEFQSSBL
+RVkgICAgICAgICB8CnwgPGltZyBzcmM9ImFzc2V0cy9ibHVldGljay5wbmci
+IHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+IFhlbmRpdCBBUEkgICAgICAgICAg
+ICAgICB8IFhlbmRpdCBPZmZpY2lhbCAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIHwgW0xpbmtdKGh0dHBzOi8vZGV2ZWxvcGVycy54ZW5kaXQuY28pICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCDinIUg
+ICAgICB8IEFQSSBHYXRld2F5IHJlc21pIGRhcmkgWGVuZGl0IHVudHVrIG1l
+bmdpbnRlZ3Jhc2lrYW4gYXBsaWthc2kgQW5kYSBkZW5nYW4gZ2F0ZXdheSBw
+ZW1iYXlhcmFuIFhlbmRpdC4gICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBB
+UEkgS0VZICAgICAgICAgfAoKIyMjIEZvcnVtCgp8IE5hbWEgQVBJICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIHwgUGVuZ2VtYmFuZyB8IERva3VtZW50YXNpICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgU3RhdHVzIHwgRGVz
+a3JpcHNpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIHwgQXV0ZW50aWthc2kgfAp8LS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLXwtLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLXwtLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLXwtLS0tLS0tLS0tLS0tfAp8IDxpbWcgc3JjPSJhc3NldHMvYmx1
+ZXRpY2sucG5nIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiPiBLYXNrdXMgQVBJ
+IHwgS2Fza3VzIERldiB8IFtMaW5rXShodHRwczovL2dpdGh1Yi5jb20va2Fz
+a3VzL2thc2t1cy1waHAtc2RrL3dpa2kpIHwg4pyFICAgICAgfCBBUEkgdW50
+dWsgbWVuZ2Frc2VzIGZvcnVtIHRlcmtlbmFsIGRpIEluZG9uZXNpYSAtIEth
+c2t1cy4gfCBPQVVUSCAgICAgICB8CgojIyMgSmFzYSBQZW5naXJpbWFuCgp8
+IE5hbWEgQVBJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICB8IFBlbmdlbWJhbmcgICAgICAg
+ICAgICAgICAgICAgICAgICB8IERva3VtZW50YXNpICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8
+IFN0YXR1cyB8IERlc2tyaXBzaSAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgQXV0ZW50aWthc2kgfAp8
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS18
+LS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tfAp8
+IDxpbWcgc3JjPSJhc3NldHMvYmx1ZXRpY2sucG5nIiB3aWR0aD0iMjAiIGhl
+aWdodD0iMjAiPiBDZWsgUmVzaSAgICAgICB8IGJpbmRlcmJ5dGUgICAgICAg
+ICAgICAgICAgICAgICAgICB8IFtMaW5rXShodHRwczovL2RvY3MuYmluZGVy
+Ynl0ZS5jb20vYXBpL2Nlay1yZXNpKSAgICAgICAgICAgICAgICAgICAgICB8
+IOKchSAgICAgIHwgQVBJIENlayBSZXNpIGFkYWxhaCBhcGkgeWFuZyBiZXJn
+dW5hIHVudHVrIG1lbGFjYWsgcmVzaSBzZWNhcmEgb3RvbWF0aXMgbXVsYWkg
+ZGFyaSBqbmUsIHBvcywgam50LCB3YWhhbmEsIHRpa2ksIHNpY2VwYXQgZGxs
+LiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBBUEkgS0VZICAgICB8
+CnwgPGltZyBzcmM9ImFzc2V0cy9ibHVldGljay5wbmciIHdpZHRoPSIyMCIg
+aGVpZ2h0PSIyMCI+IEomVCAgICAgICAgICAgIHwgSiZUIE9mZmljaWFsICAg
+ICAgICAgICAgICAgICAgICAgIHwgW0xpbmtdKGh0dHBzOi8vZGV2ZWxvcGVy
+LmpldC5jby5pZC9kb2N1bWVudGF0aW9uKSAgICAgICAgICAgICAgICAgICAg
+IHwg4pyFICAgICAgfCBBUEkgUmVzbWkgeWFuZyBkaXRlcmJpdGthbiBvbGVo
+IEomVCB1bnR1ayBsYXlhbmFuIEFXQiwgT3JkZXIgVHJhY2tpbmcsIENlayBU
+YXJpZiwgZGFuIFBlbWJhdGFsYW4gT3JkZXIuICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IEFQSSBLRVkgICAg
+IHwKfCA8aW1nIHNyYz0iYXNzZXRzL2JsdWV0aWNrLnBuZyIgd2lkdGg9IjIw
+IiBoZWlnaHQ9IjIwIj4gSk5FICAgICAgICAgICAgfCBKTkUgT2ZmaWNpYWwg
+ICAgICAgICAgICAgICAgICAgICAgfCBbTGlua10oaHR0cHM6Ly9hcGlkYXNo
+LmpuZS5jby5pZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgfCDinIUgICAgICB8IEFQSSBSZXNtaSBKTkUgeWFuZyBkYXBhdCBkaWd1
+bmFrYW4gdW50dWsgbGF5YW5hbiBjZWsgb25na29zIGtpcmltIGhpbmdnYSBn
+ZW5lcmF0ZSBBV0IuIFVudHVrIGFrc2VzIGxpbmsgZGlwZXJsdWthbiBha3Vu
+IHlhbmcgZGliZXJpa2FuIGxhbmdzdW5nIGRhcmkgcGloYWsgSk5FLiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgQVBJIEtFWSAg
+ICAgfAp8IDxpbWcgc3JjPSJhc3NldHMvYmx1ZXRpY2sucG5nIiB3aWR0aD0i
+MjAiIGhlaWdodD0iMjAiPktpcmltaW5BamEgICAgICB8IEtpcmltaW5BamEg
+T2ZmaWNpYWwgICAgICAgICAgICAgICB8IFtMaW5rXShodHRwczovL2RldmVs
+b3Blci5raXJpbWluYWphLmNvbSkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICB8IOKchSAgICAgIHwgU29sdXNpIHBlbmdpcmltYW4gcGFrZXQga2Ug
+YmVyYmFnYWkgZWtzcGVkaXNpLCBrZXRhaHVpIHBvc2lzaSBwYWtldCBzZWNh
+cmEgcmVhbC10aW1lLCBtZW5kdWt1bmcgcGVuZ2lyaW1hbiByZWd1bGVyLCBr
+YXJnbywgZGFuIGluc3Rhbi4gICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBBUEkgS0VZ
+ICAgICB8CnwgPGltZyBzcmM9ImFzc2V0cy9ibHVldGljay5wbmciIHdpZHRo
+PSIyMCIgaGVpZ2h0PSIyMCI+IFBha2V0IElEICAgICAgIHwgcGFrZXQuaWQg
+ICAgICAgICAgICAgICAgICAgICAgICAgIHwgW0xpbmtdKGh0dHA6Ly9kb2Nz
+LnBha2V0LmlkL0FQSS9WZXJzaV8yLmh0bWwpICAgICAgICAgICAgICAgICAg
+ICAgICAgIHwg4pyFICAgICAgfCBKYXNhIHBlbmdpcmltYW4uICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IEFQSSBL
+RVkgICAgIHwKfCA8aW1nIHNyYz0iYXNzZXRzL2JsdWV0aWNrLnBuZyIgd2lk
+dGg9IjIwIiBoZWlnaHQ9IjIwIj4gUE9TVCBJbmRvbmVzaWEgfCBUcmFja2lu
+Z21vcmUgICAgICAgICAgICAgICAgICAgICAgfCBbTGlua10oaHR0cHM6Ly93
+d3cudHJhY2tpbmdtb3JlLmNvbS9pbmRvbmVzaWEtcG9zdC10cmFja2luZy1h
+cGkuaHRtbCkgfCDinIUgICAgICB8IEphc2EgcGVuZ2lyaW1hbi4gICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgQVBJ
+IEtFWSAgICAgfAp8IDxpbWcgc3JjPSJhc3NldHMvYmx1ZXRpY2sucG5nIiB3
+aWR0aD0iMjAiIGhlaWdodD0iMjAiPiBSYWphIE9uZ2tpciAgICB8IFJhamFv
+bmdraXIgICAgICAgICAgICAgICAgICAgICAgICB8IFtMaW5rXShodHRwOi8v
+cmFqYW9uZ2tpci5jb20vZG9rdW1lbnRhc2kpICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICB8IOKchSAgICAgIHwgQ2VrIG9uZ2tvcyBraXJpbSBwYWRh
+IGJlYmVyYXBhIGphc2EgYW50YXIgYmFyYW5nIHNlcGVydGkgSk5FLCBQT1Ms
+IFRJS0ksIGRhbiBsYWluLWxhaW4uICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBB
+UEkgS0VZICAgICB8CnwgPGltZyBzcmM9ImFzc2V0cy9ibHVldGljay5wbmci
+IHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+IFNoaXBwZXIgICAgICAgIHwgU2hp
+cHBlciAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgW0xpbmtdKGh0dHBz
+Oi8vc2hpcHBlci5pZC9hcGktaW50ZWdyYXRpb24pICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIHwg4pyFICAgICAgfCBTb2x1c2kgcGVsYWNha2FuIHRl
+cnVwZGF0ZSBkYW4gYWt1cmF0IGRhcmkgZGFzaGJvYXJkIFNoaXBwZXIuIEtl
+dGFodWkgcG9zaXNpIHBha2V0IGRlbmdhbiBtdWRhaCBoYW55YSBkZW5nYW4g
+aW5wdXQgbm8uIHJlc2kuIEFkYW55YSBrZW11ZGFoYW4gcGFudGF1IHBlbmdp
+cmltYW4gc2VjYXJhIHJlYWwtdGltZS4gS2FtaSBqdWdhIGtpcmlta2FuIG5v
+dGlmaWthc2kgdGVya2FpdCBzdGF0dXMgdGVya2luaSBwYWtldCBBbmRhLiB8
+IEFQSSBLRVkgICAgIHwKfCA8aW1nIHNyYz0iYXNzZXRzL2JsdWV0aWNrLnBu
+ZyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj4gVHJhY2tpbmcgQVBJICAgfCBb
+S2xpayBSZXNpXShodHRwczovL2tsaWtyZXNpLmNvbSkgfCBbTGlua10oaHR0
+cHM6Ly9kb2N1bWVudGVyLmdldHBvc3RtYW4uY29tL3ZpZXcvMjkyMjE0ODkv
+MnM5WUM3U0JnSCkgICAgfCDinIUgICAgICB8IEFQSSB1bnR1ayBtZW1iYW50
+dSBwZWxha3UgZUNvbW1lcmNlIHVudHVrIG1lbGFjYWsgcGFrZXQgc2VjYXJh
+IGFrdXJhdC4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IHwgQVBJIEtFWSAgICAgfAogCiMjIyBTb3NpYWwgTWVkaWEKCnwgTmFtYSBB
+UEkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICB8IFBlbmdlbWJhbmcgfCBEb2t1
+bWVudGFzaSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICB8IFN0YXR1cyB8IERlc2tyaXBzaSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIHwgQXV0ZW50aWthc2kgfAp8LS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0t
+LS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS18
+LS0tLS0tLS0tLS0tLXwKfCA8aW1nIHNyYz0iYXNzZXRzL2JsdWV0aWNrLnBu
+ZyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj4gVGVsZWdyYW0gQm90IEFwaSB8
+IFRlbGVncmFtICAgfCBbTGlua10oaHR0cHM6Ly9jb3JlLnRlbGVncmFtLm9y
+Zy9ib3RzL2FwaSkgfCDinIUgICAgICB8IE9mZmljaWFsIEFQSSB1bnR1ayBU
+ZWxlZ3JhbSBib3QgQVBJLiB8IGB0cnVlYCAgICAgfAp8IDxpbWcgc3JjPSJh
+c3NldHMvYmx1ZXRpY2sucG5nIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiPiBX
+aGF0c2FwcCBPZmZpY2lhbCBBUEkgfCBGYWNlYm9vayAgIHwgW0xpbmtdKGh0
+dHBzOi8vZGV2ZWxvcGVycy5mYWNlYm9vay5jb20vZG9jcy93aGF0c2FwcCkg
+fCDinIUgICAgICB8IE9mZmljaWFsIEFQSSB1bnR1ayBXaGF0c2FwcCBDbG91
+ZCBBUEkuIHwgYGZhbHNlYCAgICAgfAogIA==
 
-Kumpulan rest api lokal indonesia
- 
- 
-
-## Daftar API 
-
-### Berita
-
-| Nama API                                                                  | Pengembang       | Dokumentasi                                                | Status | Deskripsi                                         | Autentikasi |
-|---------------------------------------------------------------------------|------------------|------------------------------------------------------------|--------|---------------------------------------------------|-------------|
-| <img src="assets/bluetick.png" width="20" height="20"> Indonesia news API | News API         | [Link](https://newsapi.org/s/indonesia-news-api)           | ✅      | API untuk mendapatkan update berita di Indonesia. | API KEY     |
-
-### Cuaca
-
-| Nama API                                                                  | Pengembang | Dokumentasi                        | Status | Deskripsi                                               | Autentikasi |
-|---------------------------------------------------------------------------|------------|------------------------------------|--------|---------------------------------------------------------|-------------|
-| <img src="assets/bluetick.png" width="20" height="20"> API Cuaca Realtime | weatherapi | [Link](https://www.weatherapi.com) | ✅      | Ramalan Cuaca Terkini Berbagai Kota dengan Format JSON. | API KEY     |
-
-### E-Commerce
-
-| Nama API                                                                            | Pengembang        | Dokumentasi                                           | Status | Deskripsi                                                                                         | Autentikasi |
-|-------------------------------------------------------------------------------------|-------------------|-------------------------------------------------------|--------|---------------------------------------------------------------------------------------------------|-------------|
-| <img src="assets/bluetick.png" width="20" height="20"> Blibli                       | Blibli.com Dev    | [Link](https://seller-api.blibli.com/home)            | ✅      | API untuk penjual di Blibli.                                                                      | API KEY     |
-| <img src="assets/bluetick.png" width="20" height="20"> Lazada                       | Lazada Dev        | [Link](https://open.lazada.com/doc/doc.htm)           | ✅      | API resmi Lazada untuk layanan Product, Order, Finance, Logistic, Seller, dan System dari Lazada. | API KEY     |
-| <img src="assets/bluetick.png" width="20" height="20"> Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io)            | ✅      | API untuk penjual di Matahari Mall.                                                               | API KEY     |
-| <img src="assets/bluetick.png" width="20" height="20"> Shopee                       | Shopee Dev        | [Link](https://open.shopee.com/documents)             | ✅      | API resmi Shopee untuk integrasi berbagai layanan dari Shopee.                                    | API KEY     |
-| <img src="assets/bluetick.png" width="20" height="20"> Tokopedia.com API            | Tokopedia.com Dev | [Link](https://developer.tokopedia.com/openapi/guide) | ✅      | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Tokopedia.                  | API KEY     |
-
-### Finansial
-
-| Nama API                                                                        | Pengembang                                | Dokumentasi                                                                   | Status | Deskripsi                                                                                                                                                                                                              | Autentikasi     |
-|---------------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| <img src="assets/bluetick.png" width="20" height="20"> API Data Saham Indonesia | goapi-id                                  | [Link](https://goapi.io/api-data-saham-indonesia)                             | ✅      | REST API data saham indonesia dalam format json, dengan api ini anda bisa mendapatkan data perusahaan, harga saham, dll.                                                                                               | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20"> BCA                      | BCA                                       | [Link](https://developer.bca.co.id)                                           | ✅      | API Bank BCA.                                                                                                                                                                                                          | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20"> Bisatopup                | Bisatopup                                 | [Link](https://documenter.getpostman.com/view/367648/RzfZQZAL?version=latest) | ✅      | Melalui API ini dapat melakukan transaksi seperti beli pulsa, bayar token listrik, dan lain-lain.                                                                                                                      | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20"> CoinMarketCap            | CoinMarketCap                             | [Link](https://coinmarketcap.com/api)                                         | ✅      | CoinMarketCap API adalah rangkaian endpoint RESTful JSON berkinerja tinggi yang dirancang khusus untuk memenuhi tuntutan misi-kritis dari pengembang aplikasi, ilmuwan data, dan platform bisnis perusahaan.           | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20"> Dana Enterprise          | DANA                                      | [Link](https://dashboard.dana.id/api-docs/)                                   | ✅      | Official DANA Enterprise API.                                                                                                                                                                                          | OAUTH           |
-| <img src="assets/bluetick.png" width="20" height="20"> DOKU                     | DOKU                                      | [Link](https://www.doku.com/API/index.html)                                   | ✅      | DOKU semakin dipercaya dan menjadi layanan pembayaran elektronik pilihan bagi merchant nasional maupun internasional.                                                                                                  | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20"> Duitku                   | Duitku                                    | [Link](https://docs.duitku.com)                                               | ✅      | Payment Gateway Indonesia.                                                                                                                                                                                             | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20"> ESPAY                    | ESPAY                                     | [Link](https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php)            | ✅      | Payment Gateway Indonesia.                                                                                                                                                                                             | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20">iPaymu                    | iPaymu                                    | [Link](https://ipaymu.com/dokumentasi-api)                                    | ✅      | Gateway atau gerbang untuk transaksi pembayaran.                                                                                                                                                                       | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20"> Jurnal API               | jurnal.id                                 | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction)        | ✅      | API untuk software laporan keuangan.                                                                                                                                                                                   | OAUTH / API KEY |
-| <img src="assets/bluetick.png" width="20" height="20"> Midtrans                 | Midtrans                                  | [Link](https://docs.midtrans.com)                                             | ✅      | Gateway atau gerbang untuk transaksi pembayaran.                                                                                                                                                                       | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20"> MobilePulsa API          | MobilePulsa Official                      | [Link](https://developer.mobilepulsa.net)                                     | ✅      | API Gateway resmi dari MobilePulsa untuk pembayaran pulsa, top up, PLN, voucher game, dll.                                                                                                                             | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20"> Neropass API             | [Neropass](https://neropass.com/reseller) | [Link](https://docs.neropass.com)                                             | ✅      | API distributor game online dan voucher game terlengkap dari PT Busur Media Indonesia (terbuka untuk reseller), tersedia juga layanan topup pulsa, paket data, dll.                                                    | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20"> OY! Indonesia            | OY! Indonesia                             | [Link](https://api-docs.oyindonesia.com/#introduction)                        | ✅      | API Gateway resmi dari OY! Indonesia untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran OY! Indonesia.                                                                                                     | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20"> Paypal                   | Paypal                                    | [Link](https://developer.paypal.com/api/rest/)                                | ✅      | API Gateway resmi dari Paypal untuk transaksi internasional atau domestik dari dompet paypal.                                                                                                                          | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20"> tradingeconomics         | tradingeconomics                          | [Link](https://tradingeconomics.com/api/)                                     | ✅      | Trading Economics Application Programming Interface (API) Menyediakan akses langsung ke data kami. Ini memungkinkan klien untuk mengunduh jutaan baris data historis, untuk mempertanyakan kalender ekonomi real-time. | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20"> Tradingview              | Tradingview                               | [Link](https://www.tradingview.com/rest-api-spec)                             | ✅      | API ini akan diimplementasikan oleh Broker untuk menghubungkan sistem backend mereka ke TradingView.                                                                                                                   | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20"> Tripay                   | Tripay                                    | [Link](https://tripay.co.id/developer?tab=prolog)                             | ✅      | API payment Gateway yang terbagi menjadi 2 jenis yaitu Open Payment & Closed Payment. sehingga dapat dintegrasikan dengan aplikasi Anda dengan Gateway pembayaran Tripay.                                              | API KEY         |
-| <img src="assets/bluetick.png" width="20" height="20"> Xendit API               | Xendit Official                           | [Link](https://developers.xendit.co)                                          | ✅      | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit.                                                                                                                   | API KEY         |
-
-### Forum
-
-| Nama API                                                          | Pengembang | Dokumentasi                                           | Status | Deskripsi                                                 | Autentikasi |
-|-------------------------------------------------------------------|------------|-------------------------------------------------------|--------|-----------------------------------------------------------|-------------|
-| <img src="assets/bluetick.png" width="20" height="20"> Kaskus API | Kaskus Dev | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki) | ✅      | API untuk mengakses forum terkenal di Indonesia - Kaskus. | OAUTH       |
-
-### Jasa Pengiriman
-
-| Nama API                                                              | Pengembang                        | Dokumentasi                                                           | Status | Deskripsi                                                                                                                                                                                                                                          | Autentikasi |
-|-----------------------------------------------------------------------|-----------------------------------|-----------------------------------------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| <img src="assets/bluetick.png" width="20" height="20"> Cek Resi       | binderbyte                        | [Link](https://docs.binderbyte.com/api/cek-resi)                      | ✅      | API Cek Resi adalah api yang berguna untuk melacak resi secara otomatis mulai dari jne, pos, jnt, wahana, tiki, sicepat dll.                                                                                                                       | API KEY     |
-| <img src="assets/bluetick.png" width="20" height="20"> J&T            | J&T Official                      | [Link](https://developer.jet.co.id/documentation)                     | ✅      | API Resmi yang diterbitkan oleh J&T untuk layanan AWB, Order Tracking, Cek Tarif, dan Pembatalan Order.                                                                                                                                            | API KEY     |
-| <img src="assets/bluetick.png" width="20" height="20"> JNE            | JNE Official                      | [Link](https://apidash.jne.co.id)                                     | ✅      | API Resmi JNE yang dapat digunakan untuk layanan cek ongkos kirim hingga generate AWB. Untuk akses link diperlukan akun yang diberikan langsung dari pihak JNE.                                                                                    | API KEY     |
-| <img src="assets/bluetick.png" width="20" height="20">KiriminAja      | KiriminAja Official               | [Link](https://developer.kiriminaja.com)                              | ✅      | Solusi pengiriman paket ke berbagai ekspedisi, ketahui posisi paket secara real-time, mendukung pengiriman reguler, kargo, dan instan.                                                                                                             | API KEY     |
-| <img src="assets/bluetick.png" width="20" height="20"> Paket ID       | paket.id                          | [Link](http://docs.paket.id/API/Versi_2.html)                         | ✅      | Jasa pengiriman.                                                                                                                                                                                                                                   | API KEY     |
-| <img src="assets/bluetick.png" width="20" height="20"> POST Indonesia | Trackingmore                      | [Link](https://www.trackingmore.com/indonesia-post-tracking-api.html) | ✅      | Jasa pengiriman.                                                                                                                                                                                                                                   | API KEY     |
-| <img src="assets/bluetick.png" width="20" height="20"> Raja Ongkir    | Rajaongkir                        | [Link](http://rajaongkir.com/dokumentasi)                             | ✅      | Cek ongkos kirim pada beberapa jasa antar barang seperti JNE, POS, TIKI, dan lain-lain.                                                                                                                                                            | API KEY     |
-| <img src="assets/bluetick.png" width="20" height="20"> Shipper        | Shipper                           | [Link](https://shipper.id/api-integration)                            | ✅      | Solusi pelacakan terupdate dan akurat dari dashboard Shipper. Ketahui posisi paket dengan mudah hanya dengan input no. resi. Adanya kemudahan pantau pengiriman secara real-time. Kami juga kirimkan notifikasi terkait status terkini paket Anda. | API KEY     |
-| <img src="assets/bluetick.png" width="20" height="20"> Tracking API   | [Klik Resi](https://klikresi.com) | [Link](https://documenter.getpostman.com/view/29221489/2s9YC7SBgH)    | ✅      | API untuk membantu pelaku eCommerce untuk melacak paket secara akurat.                                                                                                                                                                             | API KEY     |
- 
-### Sosial Media
-
-| Nama API                                                                     | Pengembang | Dokumentasi                                           | Status | Deskripsi                              | Autentikasi |
-|------------------------------------------------------------------------------|------------|-------------------------------------------------------|--------|----------------------------------------|-------------|
-| <img src="assets/bluetick.png" width="20" height="20"> Telegram Bot Api | Telegram   | [Link](https://core.telegram.org/bots/api) | ✅      | Official API untuk Telegram bot API. | `true`     |
-| <img src="assets/bluetick.png" width="20" height="20"> Whatsapp Official API | Facebook   | [Link](https://developers.facebook.com/docs/whatsapp) | ✅      | Official API untuk Whatsapp Cloud API. | `false`     |
-  
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
